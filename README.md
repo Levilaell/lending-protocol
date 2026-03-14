@@ -134,6 +134,13 @@ forge build
 forge test -vv
 ```
 
+## Deployments
+
+| Network | Contract        | Address                                      |
+| ------- | --------------- | -------------------------------------------- |
+| Sepolia | LendingProtocol | `0xc190c646745e90678cc3eb55290c476c5dbee678` |
+| Sepolia | MockOracle      | `0xa2af75d2d6b6ca7296272720b155b1d4b94116ef` |
+
 ## License
 
 MIT
